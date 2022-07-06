@@ -1,5 +1,7 @@
 # fsg2022-minecraft
 
+![Die Schule von oben](2022-07-06_11.03.06.png)
+
 Minecraft-Welt-Datei zum Projekt "Friedrich-Schiller-Gymnasium in Minecraft" vom Schuljubiläum 2022
 
 Diese Minecraft-Welt entstand während eines Schulprojekts im Juni 2022 von mehreren 
