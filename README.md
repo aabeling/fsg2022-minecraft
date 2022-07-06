@@ -13,3 +13,7 @@ Die Welt kann jetzt gerne von jedem benutzt werden, um die Schule zu erforschen.
 Eine Anleitung zum Verwenden dieser Welt findet man bspw. unter
 
 https://minecraft.fandom.com/de/wiki/Anleitungen/Welten_downloaden_und_verwenden
+
+Der direkte Link zum Download ist
+
+https://github.com/aabeling/fsg2022-minecraft/raw/main/world.zip
